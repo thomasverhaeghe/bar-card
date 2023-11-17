@@ -85,9 +85,7 @@ export const styles = html`
       flex-direction: column;
     }
     bar-card-backgroundbar {
-      background: var(--bar-color);
-      filter: brightness(0.5);
-      opacity: 0.25;
+      background: black;
     }
     bar-card-currentbar {
       background: linear-gradient(
